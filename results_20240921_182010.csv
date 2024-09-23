@@ -1,3 +1,0 @@
-Timestamp,Type,URL,Server IP,Location,ISP,Network Interface,Total Data (MB),Latency (s),Jitter (s),Elapsed Time (s),Average Speed (Mbps),CPU Usage Before (%),CPU Usage After (%),Memory Usage Before (%),Memory Usage After (%),Error Message
-2024-09-21 18:20:09,Upload,http://boi-speedtest.syringanetworks.net:8080/speedtest/upload.php,Unknown,United States,"AS11492 CABLE ONE, INC.",vEthernet (Default Switch),10.0,13.338665962219238,13.338665962219238,13.351646661758423,6.282826540060051,0.0,2.1,33.1,33.4,
-2024-09-21 18:20:09,Upload,https://boise1.cabospeed.com:8080/speedtest/upload.php,Unknown,United States,"AS11492 CABLE ONE, INC.",vEthernet (Default Switch),10.0,13.576721429824829,13.576721429824829,13.58878493309021,6.173184755888514,0.0,0.0,33.0,33.4,
